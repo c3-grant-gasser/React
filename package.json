@@ -20,5 +20,10 @@
   "homepage": "https://github.com/c3-grant-gasser/React#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "react-popper": "^2.2.5",
+    "reactstrap": "^8.9.0"
   }
 }
